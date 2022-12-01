@@ -1,4 +1,4 @@
-#Analyze Twitch Gaming Data#
+# Analyze Twitch Gaming Data #
 
 
 Twitch is the world’s leading live streaming platform for gamers, with 15 million daily active users. Using data to understand its users and products is one of the main responsibilities of the Twitch Data Science Team.
